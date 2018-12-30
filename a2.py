@@ -179,3 +179,5 @@ class A2:
 
         # total error rate = miss rate + false alarm rate.
         pass
+
+        def test(self):
